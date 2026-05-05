@@ -1,8 +1,5 @@
 pandas
 seaborn
-matplotlib.pyplot
-sklearn.model_selection
-sklearn.preprocessing
-pickle
+matplotlib
+scikit-learn
 lightgbm
-sklearn.metrics
